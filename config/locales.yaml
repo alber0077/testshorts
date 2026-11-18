@@ -1,0 +1,37 @@
+locales:
+  es-ES:
+    name: "Spanish (Spain)"
+    wiki_lang: "es"
+    whisper_lang: "es"
+    chatterbox_repo: "ResembleAI/Chatterbox-Multilingual-es-es"
+    fallback_multilingual: false
+  es-MX:
+    name: "Spanish (Mexico / LATAM)"
+    wiki_lang: "es"
+    whisper_lang: "es"
+    chatterbox_repo: "ResembleAI/Chatterbox-Multilingual-es-mx-latam"
+    fallback_multilingual: false
+  es-419:
+    name: "Spanish (Latin America)"
+    wiki_lang: "es"
+    whisper_lang: "es"
+    chatterbox_repo: "ResembleAI/Chatterbox-Multilingual-es-mx-latam"
+    fallback_multilingual: false
+  en-US:
+    name: "English (US)"
+    wiki_lang: "en"
+    whisper_lang: "en"
+    chatterbox_repo: "ResembleAI/chatterbox"
+    fallback_multilingual: false
+  fr-FR:
+    name: "French (France)"
+    wiki_lang: "fr"
+    whisper_lang: "fr"
+    chatterbox_repo: "ResembleAI/chatterbox"
+    fallback_multilingual: true
+  pt-BR:
+    name: "Portuguese (Brazil)"
+    wiki_lang: "pt"
+    whisper_lang: "pt"
+    chatterbox_repo: "ResembleAI/chatterbox"
+    fallback_multilingual: true

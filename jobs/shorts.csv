@@ -1,0 +1,4 @@
+id,prompt,locale,voice_ref,reference_url,theme,status
+caida-constantinopla-1453,La caída de Constantinopla en 1453 y los cañones gigantes de Mehmed II,es-ES,,,editorial_dark,done
+batalla-waterloo-1815,El error de comunicación y el barro que retrasaron la Batalla de Waterloo,es-ES,,,kinetic_bold,pending
+biblioteca-alejandria,El mito y la realidad detrás de la destrucción de la Biblioteca de Alejandría,es-MX,,,parchment_modern,pending
